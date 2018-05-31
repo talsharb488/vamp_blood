@@ -14,13 +14,17 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
-    y: 42
-    width: 1366
-    height: 686
+    y: 43
+    width: 1536
+    height: 781
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 300}
+=======
+  m_MinSize: {x: 950, y: 492}
+>>>>>>> 2f89bfb969f5cd06a54241dee9f183064ef3615e
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -130,14 +134,20 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2f89bfb969f5cd06a54241dee9f183064ef3615e
     width: 753
     height: 731
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
   controlID: 10
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2f89bfb969f5cd06a54241dee9f183064ef3615e
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
